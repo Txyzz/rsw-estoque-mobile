@@ -3,7 +3,7 @@
  
  # O projeto
  
- Site feito em react native com a finalidade de ser um gerenciador de estoque, listando e adicionando produtos, no qual estes podem ser excluidos ou editados.
+ Aplicativo feito em react native com a finalidade de ser um gerenciador de estoque, listando e adicionando produtos, no qual estes podem ser excluidos ou editados.
  
  # O grupo
  
