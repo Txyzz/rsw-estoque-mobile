@@ -1,2 +1,3 @@
-# rsw-estoque-mobile
+# RSW Estoque - Mobile
+
  Projeto feito na disciplina de React Native durante a Residência de Software do Serratec. 
